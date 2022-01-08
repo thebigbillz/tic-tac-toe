@@ -16,4 +16,18 @@
       flex-wrap: wrap;
     }
   }
+  .new-game {
+    width: 33rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 6rem;
+    margin-top: 2rem;
+    background: wheat;
+
+    p {
+      font-size: 1.6rem;
+      color: #c74848;
+    }
+  }
 }
