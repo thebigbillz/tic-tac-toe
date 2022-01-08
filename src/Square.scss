@@ -1,0 +1,10 @@
+.square {
+  p {
+    font-size: 4rem;
+    color: #c74848;
+  }
+  &:hover {
+    background: #c748487e !important;
+    cursor: pointer;
+  }
+}
